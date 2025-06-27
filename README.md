@@ -170,3 +170,94 @@ aks holda — `"Noaniq qoldiq"` deb chiqaring.\
 
 **🧮 Vazifa:** `"Toshkent"` javobini berish uchun foydalanuvchiga faqat 3 urinishgacha imkon bering. Aks holda `"Urinishlar tugadi"` chiqaring.\
 **📤 Chiqish:** `"To‘g‘ri!"` yoki `"Urinishlar tugadi"`
+
+
+# Nazariy savol javob
+
+### 🟩 1. `int` — Butun sonlar
+
+1. Python'da `int` tipidagi o‘zgaruvchini qanday yaratamiz?
+2. `int("25")` natijasi nima bo‘ladi? Nima uchun?
+3. `"10" + "5"` va `10 + 5` farqi nimada?
+4. `int` va `float` o‘rtasidagi farqni ayting.
+5. `int("5.5")` kodida nima xato bor? Nima qilish kerak?
+
+---
+
+### 🟦 2. `float` — Haqiqiy sonlar
+
+1. `float` tipi qanday sonlarni ifodalaydi?
+2. `float("10")` va `float("10.0")` o‘rtasida qanday farq bor?
+3. `round(3.14159, 2)` natijasi nima bo‘ladi?
+4. `type(4.0)` va `type(4)` bir xilmi?
+5. `float` bilan `int`ni qo‘shsak natija qanday bo‘ladi?
+
+---
+
+### 🟨 3. `str` — Matnlar
+
+1. Python'da matnlar qanday belgilar bilan olinadi?
+2. `"Salom"[0]` va `"Salom"[-1]` natijalari nima?
+3. `str(25)` nima qiladi?
+4. `"123" + 123` kodida nima xatolik bo‘ladi? Nima uchun?
+5. `"hello".upper()` va `"HELLO".lower()` nima qiladi?
+
+---
+
+### 🟥 4. `bool` — Mantiqiy qiymatlar
+
+1. `bool` qanday qiymatlarni oladi?
+2. `bool("")`, `bool(0)`, `bool([])` natijalarini ayting.
+3. `5 > 3` natijasi qanday tipga ega?
+4. `bool("False")` natijasi nima bo‘ladi? Nega?
+5. `not True`, `not False`, `not 0` — har birining natijasini tushuntiring.
+
+---
+
+### ⚫ 5. `Operators` — Operatorlar
+
+1. `==` va `=` farqini tushuntiring.
+2. `a = 5; a += 2` dan keyin `a` ning qiymati qancha bo‘ladi?
+3. `and`, `or`, `not` qanday ishlaydi? Misol keltiring.
+4. `10 % 3` va `10 // 3` natijalarini tushuntiring.
+5. `5 > 2 and 4 < 1` bu ifoda `True` bo‘lishi mumkinmi?
+
+---
+
+### 🟣 6. `String methods` — Matn metodlari
+
+1. `.upper()` va `.capitalize()` metodlari nima qiladi?
+2. `"hello world".split()` natijasi nima?
+3. `"Python".find("t")` natijasi qanday bo‘ladi?
+4. `"salom".replace("a", "e")` nima qiladi?
+5. `"    kod   ".strip()` bu metod nima uchun foydali?
+
+---
+
+### 🟠 7. `if` — Shart operatori
+
+1. `if` operatorining vazifasi nima?
+2. `if a > b:` degan kodda nima bo‘lishi kerak keyin?
+3. `if`, `elif`, `else` qanday ishlaydi?
+4. `if 0:` ishlaydimi? Qanday natija beradi?
+5. `if` ichida `and` va `or` ishlatilsa, qanday foyda beradi?
+
+---
+
+### 🔵 8. `Loop` — Sikllar
+
+1. `for` va `while` sikllari o‘rtasidagi farq nima?
+2. `for i in range(3):` nima qiladi?
+3. `while True:` qanday holatda ishlatiladi?
+4. `break` va `continue` operatorlari qanday farqlanadi?
+5. `for harf in "salom": print(harf)` kodining natijasini ayting.
+
+---
+
+### 🟤 9. `List` — Ro‘yxatlar
+
+1. Ro‘yxat qanday yaratiladi?
+2. `my_list = [1, 2, 3]` — `my_list[1]` qiymati nima bo‘ladi?
+3. `.append()` va `.extend()` metodlari qanday farqlanadi?
+4. `del my_list[0]` nima qiladi?
+5. Ro‘yxatdagi eng katta elementni qanday topamiz?
